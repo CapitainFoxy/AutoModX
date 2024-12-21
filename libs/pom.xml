@@ -11,10 +11,10 @@
     <packaging>jar</packaging>
 
     <name>AutoModX</name>
-    <description>A Minecraft plugin for automatic word moderation (automod)</description>
+    <description>A Minecraft plugin for automatic word moderation (automod) </description>
     <url></url>
 
-    <properties>
+    <properties> 
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
