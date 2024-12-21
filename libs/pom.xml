@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
 
     <name>AutoModX</name>
-    <description>A Minecraft plugin for automatic word moderation (automod) </description>
+    <description>A Minecraft plugin for automatic word moderation</description>
     <url></url>
 
     <properties> 
