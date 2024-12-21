@@ -50,7 +50,7 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 ---
 
 ## 💬 Support
-For support or feature requests, please use the [Issues](https://github.com/CapitainFoxy/AutoModX/issues) tab or join our community chat.
+For support or feature requests, please use the [Issues](https://github.com/CapitainFoxy/AutoModX/issues) tab.
 
 ---
 
