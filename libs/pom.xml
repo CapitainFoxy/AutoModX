@@ -1,0 +1,9 @@
+<dependencies>
+    <dependency>
+        <groupId>net.automodx</groupId>
+        <artifactId></artifactId>
+        <version></version>
+        <scope>system</scope>
+        <systemPath></systemPath>
+    </dependency>
+</dependencies>
