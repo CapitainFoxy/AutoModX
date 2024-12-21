@@ -14,10 +14,10 @@
 ---
 
 ##  Features
-- 🚫 Automatic filtering of banned words in chat
-- 👤 Ability to ignore certain users
-- 🔄 Commands to add or remove banned words dynamically
-- 🔧 Simple and intuitive configuration
+-  Automatic filtering of banned words in chat
+-  Ability to ignore certain users
+-  Commands to add or remove banned words dynamically
+-  Simple and intuitive configuration
 
 ---
 
