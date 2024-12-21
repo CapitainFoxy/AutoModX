@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+    id 'maven'
+}
+
+group = 'net.automodx'
+version = '2.4-SNAPSHOT'
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+
+repositories {
+    mavenCentral()
+    maven { url 'https://hub.spigotmc.org/nexus/content/repositories/public/' }
+}
+
+dependencies {
+    implementation 'org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT'
+    testImplementation 'junit:junit:4.13.1'
+}
+
+task buildJar(type: Jar) {
+    from sourceSets.main.output
+    archiveBaseName = 'AutoModX'
+    archiveVersion = project.version
+    destinationDirectory = file("$buildDir/libs")
+}
