@@ -1,0 +1,14 @@
+name: AutoModX
+version: 2.4
+author: CapitainFox
+website: -
+database: true
+main: net.automodx.AutoModX
+commands:
+  automodx:
+    description: Main command for AutoModX plugin
+    permission: automodx.use
+permissions:
+  automodx.use:
+    description: Allows a player to use AutoModX commands
+    default: op  

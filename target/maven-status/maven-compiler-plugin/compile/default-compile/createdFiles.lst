@@ -1,0 +1,8 @@
+net\automodx\AutoModX.class
+net\automodx\commands\RemoveUserCommand.class
+net\automodx\commands\AddUserCommand.class
+net\automodx\commands\PingCommand.class
+net\automodx\ChatListener.class
+net\automodx\commands\AddWordCommand.class
+net\automodx\commands\RemoveWordCommand.class
+net\automodx\AutoModX$BaseCommand.class
