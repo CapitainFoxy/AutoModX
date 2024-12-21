@@ -44,6 +44,11 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ---
 
+## SpigotMC
+Download the plugin on [SpigotMC](https://www.spigotmc.org/resources/automodx.121430/) .
+
+---
+
 ## 📜 License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
 
