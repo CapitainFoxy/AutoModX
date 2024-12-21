@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Features
+##  Features
 - 🚫 Automatic filtering of banned words in chat
 - 👤 Ability to ignore certain users
 - 🔄 Commands to add or remove banned words dynamically
@@ -21,7 +21,7 @@
 
 ---
 
-## 📥 Installation
+##  Installation
 1. Download the latest release from the [Releases Page](https://github.com/CapitainFoxy/AutoModX/releases).
 2. Place the `.jar` file in your server's `plugins` directory.
 3. Restart your server to load the plugin.
@@ -39,25 +39,25 @@
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request. Please ensure your code aligns with the style and conventions used in the project.
 
 ---
 
-## 💾 SpigotMC
+##  SpigotMC
 Download the plugin on [SpigotMC](https://www.spigotmc.org/resources/automodx.121430/) .
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-## 💬 Support
+##  Support
 For support or feature requests, please use the [Issues](https://github.com/CapitainFoxy/AutoModX/issues) tab.
 
 ---
 
-## 🌟 Acknowledgements
+##  Acknowledgements
 Thank you for choosing AutoModX to manage your Minecraft server chat. If you find this plugin helpful, consider starring the repository and sharing it with others!
