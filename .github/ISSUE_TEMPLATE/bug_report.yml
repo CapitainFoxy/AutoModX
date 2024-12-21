@@ -1,0 +1,23 @@
+name: Bug Report
+description: Report a bug in the plugin
+labels: bug
+
+body:
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is
+      placeholder: "The plugin crashes when..."
+      required: true
+
+  - type: input
+    attributes:
+      label: Steps to reproduce
+      description: Steps to reproduce the behavior
+      required: true
+
+  - type: input
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen
+      required: true
