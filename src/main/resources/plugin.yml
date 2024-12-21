@@ -2,6 +2,7 @@ name: AutoModX
 version: 2.4
 author: CapitainFox
 website: -
+api-version: 1.20
 database: true
 main: net.automodx.AutoModX
 commands:
