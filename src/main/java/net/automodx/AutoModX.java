@@ -30,6 +30,10 @@ public class AutoModX extends JavaPlugin {
 
     @Override
     public void onEnable() {
+
+
+        getLogger().info("AutoModX plugin enabled!!!!");
+        
         
         File folder = new File(getDataFolder(), "automodx");
         if (!folder.exists()) {
