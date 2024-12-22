@@ -49,6 +49,11 @@ Download the plugin on [SpigotMC](https://www.spigotmc.org/resources/automodx.12
 
 ---
 
+## PaperMC
+Download the plugin on [PaperMC](https://hangar.papermc.io/CapitainFoxy/AutoModX) .
+
+---
+
 ##  License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
 
