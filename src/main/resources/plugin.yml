@@ -4,7 +4,7 @@ author: CapitainFoxy
 website: -
 api-version: 1.20
 database: true
-startup: MIDDLE
+load: MIDDLE
 main: net.automodx.AutoModX
 commands:
   automodx:
