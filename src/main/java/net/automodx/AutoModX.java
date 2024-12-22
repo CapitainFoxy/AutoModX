@@ -32,7 +32,7 @@ public class AutoModX extends JavaPlugin {
     public void onEnable() {
 
 
-        getLogger().info("AutoModX plugin enabled!!!!");
+    
         
         
         File folder = new File(getDataFolder(), "automodx");
