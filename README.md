@@ -42,10 +42,6 @@
 ##  Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request. Please ensure your code aligns with the style and conventions used in the project.
 
----
-
-##  SpigotMC
-Download the plugin on [SpigotMC](https://www.spigotmc.org/resources/automodx.121430/) .
 
 ---
 
