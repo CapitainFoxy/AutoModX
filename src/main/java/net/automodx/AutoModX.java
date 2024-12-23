@@ -148,10 +148,10 @@ public class AutoModX extends JavaPlugin {
                 case "ping":
                     sender.sendMessage(ChatColor.GOLD + "[AutoModX] " + ChatColor.WHITE + "Plugin is active.");
                     break;
-                case "addword":
+                case "add":
                     new AddWordCommand(plugin).execute(sender, args);
                     break;
-                case "removeword":
+                case "remove":
                     new RemoveWordCommand(plugin).execute(sender, args);
                     break;
                 case "adduser":
