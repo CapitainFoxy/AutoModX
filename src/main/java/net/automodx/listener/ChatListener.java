@@ -1,4 +1,4 @@
-package net.automodx;
+package net.automodx.listener;
 
 import org.bukkit.ChatColor;
 import org.bukkit.event.EventHandler;
