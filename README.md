@@ -40,8 +40,8 @@
 | Command               | Description                                | Permission    |
 |-----------------------|--------------------------------------------|---------------|
 | `/automodx ping`      | Checks if the plugin is active             | `automodx.use`|
-| `/automodx addword <word>`| Adds a word to the banned words list        | `automodx.use`|
-| `/automodx removeword <word>`| Removes a word from the banned words list| `automodx.use`|
+| `/automodx add <word>`| Adds a word to the banned words list        | `automodx.use`|
+| `/automodx remove <word>`| Removes a word from the banned words list| `automodx.use`|
 | `/automodx adduser <name>`| Adds a user to the ignore list          | `automodx.use`|
 | `/automodx removeuser <name>`| Removes a user from the ignore list | `automodx.use`|
 
