@@ -1,6 +1,6 @@
 ![kep](public/AutoModX.png)
 
-<h1 align="center"># AutoModX</h1>
+<h1 align="center"> AutoModX</h1>
 
 
 
