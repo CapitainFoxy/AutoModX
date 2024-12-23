@@ -64,7 +64,7 @@ public class AutoModX extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        
+        getServer();
         saveConfigData();
     }
 
