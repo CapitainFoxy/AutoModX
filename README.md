@@ -30,7 +30,7 @@
 ---
 
 ##  Installation
-1. Download the latest release from SpigotMC or from PaperMC. (You can find the download link below)
+1. Download the latest release from [SpigotMC](https://github.com/CapitainFoxy/AutoModX/blob/main/README.md#papermc) or from PaperMC. 
 2. Place the `.jar` file in your server's `plugins` directory.
 3. Restart your server to load the plugin.
 
