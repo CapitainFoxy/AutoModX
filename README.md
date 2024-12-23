@@ -1,6 +1,6 @@
 # AutoModX
 
-![AutoModX](public/AutoModX.png)
+
 
 ![Contributors](https://img.shields.io/github/contributors/CapitainFoxy/AutoModX?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/CapitainFoxy/AutoModX?style=flat-square)
