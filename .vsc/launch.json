@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug AutoModX",
+            "request": "launch",
+            "mainClass": "net.automodx.AutoModX", 
+            "args": "--nogui", 
+            "vmArgs": "-Dplugin.version=2.4 -Dplugin.debug=true",
+            "projectName": "AutoModX"
+        }
+    ]
+}
