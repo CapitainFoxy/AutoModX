@@ -30,7 +30,7 @@
 ---
 
 ##  Installation
-1. Download the latest release from the [Releases Page](https://github.com/CapitainFoxy/AutoModX/releases)
+1. Download the latest release from SpigotMC or from PaperMC. (You can find the download link below)
 2. Place the `.jar` file in your server's `plugins` directory.
 3. Restart your server to load the plugin.
 
