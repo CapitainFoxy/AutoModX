@@ -2,10 +2,10 @@ name: AutoModX
 description: A Minecraft plugin for automatic word moderation
 version: 2.4
 author: CapitainFoxy
-website: -
+
 api-version: 1.18
 database: true
-load: MIDDLE
+load: STARTUP
 main: net.automodx.AutoModX
 commands:
   automodx:
